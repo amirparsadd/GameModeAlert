@@ -6,7 +6,7 @@ Make Your Server More Secure from exploiters that change their Game Mode without
 
 ## Description
 
-Alert Staff & Operators If unauthorized game mode changes happen.
+Alert **Staff & Operators** If unauthorized game mode changes happen.
 
 ### Features
 
@@ -17,11 +17,11 @@ Alert Staff & Operators If unauthorized game mode changes happen.
 
 ### Permission Nodes
 
-1. gamemodealert.admin - sends message to people with this permission to alert
-2. game mode changes
-3. gamemodealert.bypass - prevents sending messages
+1. *gamemodealert.admin* - sends message to people with this permission to alert game mode changes
+2. **gamemodealert.bypass** - prevents sending messages ( Must Be Only Given To Non Critical Creative Access Staff Groups )
 
 ### Setup Instructions
+
 1. Download the plugin
 2. Put the plugin in the /plugins folder
 3. Run or restart your server
