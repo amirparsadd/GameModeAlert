@@ -1,0 +1,8 @@
+#GameModeAlert
+#If You Have Any Suggestions Make Sure To Let Me Know!
+
+# What Is Written Before The Alert
+prefix: 'GMA'
+
+#Will The Plugin Log Game Mode Changes On The Console?
+console-logs: true

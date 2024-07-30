@@ -1,0 +1,14 @@
+name: GameModeAlert
+version: '${project.version}'
+main: com.amirparsa.gamemodealert.GameModeAlert
+api-version: '1.16'
+prefix: GMA
+authors: [AmirparsaDD]
+description: Alerts Staff Members When A Player's GameMode Changes
+permissions:
+  gamemodealert.bypass:
+    description: bypasses alerts
+    default: op
+  gamemodealert.admin:
+    description: receives alerts
+    default: op
